@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="equalsHashCode.Curso"/>
+    <fullyQualifiedTypeName name="equalsHashCode.Aluno"/>
+    <fullyQualifiedTypeName name="AcoesVideo"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="Pessoa"/>
+    <fullyQualifiedTypeName name="Gafanhoto"/>
+    <fullyQualifiedTypeName name="Visualizacao"/>
+    <fullyQualifiedTypeName name="Video"/>
+    <fullyQualifiedTypeName name="projeto_biblioteca.AcoesBiblioteca"/>
+    <fullyQualifiedTypeName name="projeto_biblioteca.acoesUsuarios"/>
+    <fullyQualifiedTypeName name="projeto_biblioteca.Livro"/>
+    <fullyQualifiedTypeName name="projeto_biblioteca.Usuario"/>
+    <fullyQualifiedTypeName name="projeto_biblioteca.Biblioteca"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="controle_estoque.Gerenciavel"/>
+    <fullyQualifiedTypeName name="java.awt.dnd.DropTargetListener"/>
+    <fullyQualifiedTypeName name="controle_estoque.Estoque"/>
+    <fullyQualifiedTypeName name="controle_estoque.Produto"/>
+    <fullyQualifiedTypeName name="controle_estoque.Fornecedor"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="controle_estoque.Venda"/>
+    <fullyQualifiedTypeName name="controle_estoque.Loja"/>
+</qualifiedTypeNameHistroy>
